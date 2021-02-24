@@ -1,0 +1,7 @@
+{
+  "name": "npm-install",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodehun": "git+https://git@github.com/trofim24/npm-bug.git"
+  }
+}
